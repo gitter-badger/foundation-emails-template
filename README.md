@@ -1,5 +1,7 @@
 # Foundation for Emails Template
 
+[![Join the chat at https://gitter.im/iDVB/foundation-emails-template](https://badges.gitter.im/iDVB/foundation-emails-template.svg)](https://gitter.im/iDVB/foundation-emails-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
 
 **Please open all issues with this template on the main [Foundation for Emails](http://github.com/zurb/foundation-emails/issues) repo.**
